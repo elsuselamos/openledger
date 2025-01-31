@@ -19,7 +19,8 @@
 - **Wallets from open-ledger account**: how to get ???
 - **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=rxtwnznbki) and copy your wallet, look at image below:
 
-  ![wallet](image-1.png)
+ ![image](https://github.com/user-attachments/assets/ba3ccefb-6c32-4712-9dd5-bbf95bafa36b)
+
 
 ## Setup
 
