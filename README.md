@@ -1,5 +1,5 @@
 # OPEN LEDGER BOT
-
+![image](https://github.com/user-attachments/assets/ba3ccefb-6c32-4712-9dd5-bbf95bafa36b)
 - Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=rxtwnznbki)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
@@ -19,7 +19,7 @@
 - **Wallets from open-ledger account**: how to get ???
 - **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=rxtwnznbki) and copy your wallet, look at image below:
 
- ![image](https://github.com/user-attachments/assets/ba3ccefb-6c32-4712-9dd5-bbf95bafa36b)
+ ![image](https://github.com/user-attachments/assets/167849e8-e542-4f90-9f6a-918268023263)
 
 
 ## Setup
